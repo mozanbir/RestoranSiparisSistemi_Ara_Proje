@@ -1,0 +1,12 @@
+# Visual Studio temporary files
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.log
+
+# Visual Studio 2017+ .vs/ folder
+.vs/
