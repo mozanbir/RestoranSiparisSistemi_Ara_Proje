@@ -6,6 +6,10 @@ Models ve screenshots klasörleri eklendi.<br>
 **Temel Sınıflar :** Models klasöründe Yemek ve Musteri sınıfları tanımlandı.<br>
 *(Yemek :  Id, Ad, Fiyat, HazirlanmaSuresi)*<br>
 *(Musteri :  Id, AdSoyad, Telefon )* özellikleri eklendi.<br>
+## 2. ADIMDA YAPILANLAR<br>
+Siparis sınıfı oluşturuldu.<br>"
+Siparis sınıfı içinde("YemekEkle()", "ToplamTutarHesapla()", "SiparisDurumGuncelle()","SiparisBilgisiGoster()") adlı metotlar tamamlanmıştır.<br>
+
 
 
 
