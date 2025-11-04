@@ -14,7 +14,7 @@ Form oluşturuldu,nesne bağlandı.<br>
 Form açıldığında menü verilleri yükleniyor.<br>
 CS01061 'Form1' does not contain a definition for 'Form1_Load' hatası, 'Form1.Designer.cs' dosyasındaki hatalı satır silinerek düzeltildi.<br>
 ## 4. ADIMDA YAPILANLAR<br>
-Zorunlu metotlar butonlara bağlandı.>br>
+Zorunlu metotlar butonlara bağlandı.<br>
 
 
 
