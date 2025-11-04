@@ -51,7 +51,7 @@ namespace RestoranSiparisSistemi_Ara_Proje.Models
 
         }
         //durum güncelleme
-        public void DurumGuncelle(string yeniDurum)
+        public void SiparisDurumGuncelle(string yeniDurum)
         {
             this.Durum = yeniDurum;
         }
